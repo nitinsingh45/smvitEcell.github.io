@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2? family=poppins:wght@700&display=swap');
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+
+
+
+
+    h2{
+        font-size: 6vw;
+        font-weight:900;
+        width :0ch;
+        overflow: hidden;
+        white-space: nowrap;
+        animation: text 6s infinite alternate;
+        border-right:3px solid black ;
+        
+    }
+    @keyframes text{
+        0%{
+            width :0ch;
+        }
+        50%{
+            width : 9ch;
+        }
+    }
+
