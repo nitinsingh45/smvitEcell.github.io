@@ -16,8 +16,7 @@ body{
 
 #text-drop {
     display: flex;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 30%;
     
     font-size:100px;
     font-family: arial;
