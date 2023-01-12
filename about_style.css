@@ -14,7 +14,7 @@ body{
     font-style: oblique; 
 }
 
-#text-drop {
+/*#text-drop {
     display: flex;
     text-align: centre;
     
@@ -89,7 +89,7 @@ body{
     opacity:0;
     animation: drop .4s linear forwards ;
     color: #00f5d4;
-  }
+  }*/
 
   @keyframes drop {
     0% {transform: translateY(-200px) scaleY(0.9); opacity: 0;}
