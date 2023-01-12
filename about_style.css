@@ -89,6 +89,9 @@ body{
     animation: drop .4s linear forwards ;
     color: #00f5d4;
   }
+textdrop{
+text-align: center;
+}
   
   @keyframes drop {
     0% {transform: translateY(-200px) scaleY(0.9); opacity: 0;}
